@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LeetCode Copy Cleaner (去除复制的代码作者信息)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/lesir831/UserScript
 // @version      1.1
 // @description  点击 LeetCode 代码块的复制按钮时，只复制纯代码，去除末尾附加的作者和题目链接等信息。
 // @author       lesir

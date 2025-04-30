@@ -8,18 +8,17 @@
 - **功能**: 复制LeetCode代码时，自动移除末尾附加的作者信息和题目链接
 - **适用网站**: leetcode.com, leetcode.cn
 - **文件**: `js/LeetCopyCleaner.js`
-- **一键安装**: [点击安装](https://www.tampermonkey.net/install.php?src=https://raw.githubusercontent.com/lesir831/UserScript/main/js/LeetCopyCleaner.user.js)
+- **一键安装**: [点击安装](https://www.tampermonkey.net/script_installation.php#url=https://raw.githubusercontent.com/lesir831/UserScript/main/js/LeetCopyCleaner.user.js)
 
 ### 强制本页打开链接
 - **功能**: 将指定域名下原本设置为在新标签页打开的链接强制在当前页面打开
 - **适用网站**: 可配置的任意网站
 - **文件**: `js/ForceOpenLinksInCurrentPage.js`
-- **一键安装**: [点击安装](https://www.tampermonkey.net/install.php?src=https://raw.githubusercontent.com/lesir831/UserScript/main/js/ForceOpenLinksInCurrentPage.user.js)
+- **一键安装**: [点击安装](https://www.tampermonkey.net/script_installation.php#url=https://raw.githubusercontent.com/lesir831/UserScript/main/js/ForceOpenLinksInCurrentPage.user.js)
 
 
 ## 使用说明
 
-### LeetCode Copy Cleaner
 - 安装脚本后访问 LeetCode 网站
 - 点击代码块旁的复制按钮即可复制干净的代码，不会包含末尾的作者信息和链接
 

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         强制本页打开链接
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/lesir831/UserScript
 // @version      1.1
 // @description  强制指定域名下的链接在当前页打开，支持动态配置生效域名
 // @author       lesir
